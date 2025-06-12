@@ -1,2 +1,12 @@
 [theme]
-base = "light" 
+base = "light"
+
+[server]
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false
+
+[runner]
+fastReruns = true 
