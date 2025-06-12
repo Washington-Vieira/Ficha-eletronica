@@ -1,4 +1,4 @@
-# Sistema de Gestão de Pedidos de Bobina
+# Sistema de Gestão de Pedidos
 
 Sistema desenvolvido em Python com Streamlit para gerenciamento de pedidos de requisição, integrado ao Google Sheets e com suporte a importação/exportação via Excel.
 
@@ -86,7 +86,7 @@ Sistema desenvolvido em Python com Streamlit para gerenciamento de pedidos de re
 
 ### 1. Aplicação Web (Streamlit)
 - `app.py`: Aplicação principal com interface web
-- Interface responsiva e moderna
+- Interface responsiva
 - Integração com Google Sheets
 - Sistema de autenticação e autorização
 
@@ -139,7 +139,7 @@ Sistema desenvolvido em Python com Streamlit para gerenciamento de pedidos de re
 ### 3. Interface
 - Dashboard gerencial
 - Formulários intuitivos
-- Filtros avançados
+- Filtros 
 - Visualização de histórico
 
 ### 4. Segurança
